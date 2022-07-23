@@ -1,29 +1,35 @@
-# app
-
-## Project setup
+#  app
+  
+  
+##  Project setup
+  
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+  
+###  Compiles and hot-reloads for development
+  
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+  
+###  Compiles and minifies for production
+  
 ```
 npm run build
 ```
-
-### Lints and fixes files
+  
+###  Lints and fixes files
+  
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
+  
+###  Customize configuration
+  
+See [Configuration Reference](https://cli.vuejs.org/config/ ).
+  
+  
 |__node_modules
 |__public
   |__favicon.ico
@@ -58,15 +64,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 |__package-lock.json
 |__package.json
 |__README.md
-|__vue.config.js(配置代理)
-
-合并测试
- 
-shopitem 全局组件
- 
- height 高
- width 宽 
- pshop:是否显示p标签
- shop 传入的数据
-
-11111
+|__vue.config.js
+  
